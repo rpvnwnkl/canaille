@@ -1,0 +1,16 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /imcooltoo/
+RewriteRule ^index\.php$ - [L]
+RewriteRule ^assets/css/(.*) /imcooltoo/wp-content/themes/roots_base/assets/css/$1 [QSA,L]
+RewriteRule ^assets/js/(.*) /imcooltoo/wp-content/themes/roots_base/assets/js/$1 [QSA,L]
+RewriteRule ^assets/img/(.*) /imcooltoo/wp-content/themes/roots_base/assets/img/$1 [QSA,L]
+RewriteRule ^plugins/(.*) /imcooltoo/wp-content/plugins/$1 [QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /imcooltoo/index.php [L]
+</IfModule>
+
+# END WordPress
