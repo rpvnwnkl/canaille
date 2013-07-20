@@ -311,7 +311,7 @@ font-size: 1em;
 line-height: 1.25em;
 margin: 1.25em 0 0 0;
 text-align: justify;
-padding: 0 1em 0 1em;
+padding: 0 0em 0 0em;
   text-indent: -0.5em;
 
 
@@ -441,13 +441,16 @@ header time.updated, p.byline {
    transition-duration: 0.2s;
     -webkit-transition-duration:0.2s;
 }
+.entry-thumbnail {
+  margin-right:1em;
+}
 .entry-thumbnail img {
 
    border:1px solid #;
    -webkit-border-radius: 20px;
       -moz-border-radius: 20px;
    border-radius: 20px; 
-   margin-top:10px;
+   margin-top:0px;
    opacity:0.7; 
    box-shadow: 0 4px 4px #000000;
    transition-duration: 0.2s;
@@ -458,6 +461,11 @@ header time.updated, p.byline {
    opacity:1.0;
    transition-duration: 0.3s;
     -webkit-transition-duration:0.3s;
+}
+.entry-thumbnail a:hover, .entry-thumbnail a:focus {
+    color: #68369E;
+    background-color: transparent;
+    text-decoration: none;
 }
 .entry-content img {
    border:2px solid #;
