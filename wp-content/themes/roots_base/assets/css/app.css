@@ -267,17 +267,24 @@ select, textarea, input[type="text"], input[type="search"] {
   font-family: 'im fell double pica', sans-serif;
   font-style: italic;
   text-transform: capitalize;
-  background-color: rgba(204, 193, 41, 0.3);
-    padding: 7px;
-    box-shadow: 0 1px 4px -2px #000000;
+  background-color: rgba(204, 193, 41, 0.5);
+    padding: 15px 10px 12px;
+    box-shadow: 0 2px 4px -2px #000000;
     margin-left:-15px;
     margin-bottom:15px;
     transition-duration: 0.3s;
     -webkit-transition-duration:0.3s;
 }
+ .entry-title {
+  margin-top:-25px;
+
+}
+.left-shift a {
+position: relative;
+left:-10px;
+}
 .entry-title:hover, .entry-title:focus {
-  background-color: rgba(204, 193, 41, 0.5);
-    padding: 7px;
+  background-color: rgba(204, 193, 41, 0.7);
     box-shadow: 0 3px 6px -2px #000000;
     margin-left:-15px;
     margin-bottom:15px;
@@ -286,11 +293,21 @@ select, textarea, input[type="text"], input[type="search"] {
     transition-duration: 0.3s;
     -webkit-transition-duration:0.3s;
 }
+.single .entry-title {
+  margin-top:-18px;
+  padding:9px;
+}
 .single .entry-title:hover, .single .entry-title:focus, .single .entry-title {
   background-color: rgba(204, 193, 41, 0.8);
-    box-shadow: 0 1px 4px -2px #000000;
+    box-shadow: 0 3px 5px -2px #000000;
         color: #68369E;
         margin-bottom:1em;
+
+}
+
+.head-bg {
+    background-color: rgba(204, 193, 41, 0.7);
+    z-index:-1;
 
 }
 .entry-title, .entry-title a {

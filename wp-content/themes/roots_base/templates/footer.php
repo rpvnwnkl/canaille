@@ -2,7 +2,7 @@
   <div class="container-fluid">
 	<div class="row-fluid">
 	    <div class="span12">
-    		<ul class="inline"><?php dynamic_sidebar('sidebar-footer'); ?></ul>
+    		<ul class="inline dropdown"><?php dynamic_sidebar('sidebar-footer'); ?></ul>
 		    <p>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?></p>
 		</div>
 	</div>

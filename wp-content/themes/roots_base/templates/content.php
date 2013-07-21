@@ -4,10 +4,12 @@
 	  <div class="row-fluid">
 	  	<div class="span12">
 	  		<div class="row-fluid">
-	  			<div class="span12">
+	  			<div class="head-bg">
+	  			<div class="span12 left-shift">
 			<header>
-			    <a href="<?php the_permalink(); ?>"><h2 class="entry-title"><?php the_title(); ?></h2></a>
+			    <a href="<?php the_permalink(); ?>"><h1 class="entry-title"><?php the_title(); ?></h1></a>
 		  </header>
+		</div>
 		</div>
 		</div>
 		<div class="row-fluid">
