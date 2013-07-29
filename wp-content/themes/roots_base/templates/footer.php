@@ -18,7 +18,7 @@
         ?>
 
       </nav>
-       <p>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?></p>
+       <p class="pull-right">&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?></p>
 
     </div>
   </div>

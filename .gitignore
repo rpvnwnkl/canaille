@@ -1,2 +1,5 @@
 #no wp-config because of server conflicts
 wp-config.php
+#trying to only include theme files now
+*
+!*/wp-content/themes/*
