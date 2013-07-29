@@ -41,5 +41,7 @@
 <script>
           jQuery("#bigtitle").fitText(1.0);
           jQuery("#othertitle").fitText(1.0);
+          jQuery(".entry-title").fitText(1.2);
+
           $('.typeahead').typeahead();
         </script>
