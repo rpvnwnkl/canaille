@@ -614,7 +614,7 @@ header time.updated, p.byline {
     -webkit-transition-duration:0.2s;
 }
 .entry-thumbnail {
-  margin-right:1em;
+  margin-right:0em;
 }
 .entry-thumbnail img {
 
