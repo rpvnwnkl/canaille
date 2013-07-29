@@ -1,4 +1,5 @@
 
+<footer class="content-info" role="contentinfo">
 <header class="banner navbar navbar-static-bottom" role="banner">
   <div class="navbar-inner navbar-inner-footer">
     <div class="container-fluid">
@@ -24,7 +25,7 @@
   </div>
 </header>
 
-<footer class="content-info" role="contentinfo">
+
   <!-- <div class="container-fluid">
 	<div class="row-fluid">
 	    <div class="span12">
