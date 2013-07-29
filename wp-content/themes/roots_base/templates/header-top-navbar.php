@@ -17,9 +17,10 @@
               wp_nav_menu(array('theme_location' => 'primary_navigation', 'menu_class' => 'nav'));
             endif;
           ?>
-          <form class="navbar-search pull-right">
-            <input id="s" type="text" class="search-query" type="submit" placeholder="Search pop culture" name="s">
-          </form>
+          <!-- <form class="navbar-search pull-right form-search">
+            <input id="s" type="text" class="search-query" type="submit" placeholder="Canaille Query" name="search">
+          </form> -->
+          <?php get_template_part('templates/searchform'); ?>
         </nav>
         <nav class="nav-main visible-desktop" role="navigation">
           <?php
@@ -27,9 +28,10 @@
               wp_nav_menu(array('theme_location' => 'primary_navigation', 'menu_class' => 'nav'));
             endif;
           ?>
-          <form class="navbar-search pull-right">
-            <input id="s" type="text" class="search-query" type="submit" placeholder="Search pop culture" name="s">
-          </form>
+          <!-- <form class="navbar-search pull-right form-search">
+            <input id="s" type="text" class="search-query" type="submit" placeholder="Canaille Query" name="search">
+          </form> -->
+          <?php get_template_part('templates/searchform'); ?>
         </nav>
       </div>
     </div>

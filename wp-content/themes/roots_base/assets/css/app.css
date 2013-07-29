@@ -198,6 +198,11 @@ border-color: #CCC129 -moz-use-text-color #CCC129;
   padding:5px;
   margin:0;
 }
+
+form#searchform {
+  margin-bottom: 0px;
+  padding-top: 4px;
+}
 #s {
     background-color: rgba(173, 109, 36, 0.5);
     border: 0px solid #CCCCCC;
@@ -206,8 +211,11 @@ border-color: #CCC129 -moz-use-text-color #CCC129;
     transition-duration: 1s;
     -webkit-transition-duration:1s;
     height:2em;
+        color: #F5962A;
+
 
 }
+
 #s:hover, #s:focus, #s:active {
     background-color: rgba(172, 74, 20, 0.9);;
     border: 0px solid #CCCCCC;
@@ -217,18 +225,62 @@ border-color: #CCC129 -moz-use-text-color #CCC129;
     transition-duration: 1s;
     -webkit-transition-duration:1s;
 }
-select, textarea, input[type="text"], input[type="search"] {
+select, textarea, input[type="text"], input[type="search"], .search-query {
     border-radius: 4px 4px 4px 4px;
     color: #7A4A14;
     display: inline-block;
     font-size: 14px;
     height: 20px;
     line-height: 20px;
-    margin-bottom: 10px;
-    padding: 4px 6px;
-    vertical-align: middle;
+    margin-bottom: 0px;
+    padding: 4px 10px;
+    vertical-align: bottom;
 }
 
+.btn#searchsubmit {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: rgba(192, 152, 83, 0.7);
+    background-image: linear-gradient(to bottom, rgba(192, 152, 83, 0.5), rgba(192, 152, 83, 0.1));
+    background-image: -o-linear-gradient(bottom, rgba(192,152,83, .5), rgba(192,152,83, .1));
+    background-image: -moz-linear-gradient(bottom, rgba(192,152,83, .5), rgba(192,152,83, .1));
+    background-image: -webkit-linear-gradient(bottom, rgba(192,152,83, .5), rgba(192,152,83, .1));
+    background-image: -ms-linear-gradient(bottom, rgba(192,152,83, .5), rgba(192,152,83, .1));
+
+background-image: -webkit-gradient(
+  linear,
+  left bottom,
+  left top,
+  color-stop(.5, rgba(192,152,83, .1)),
+  color-stop(.5, rgba(192,152,83, .5))
+  );
+
+
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) #B3B3B3;
+    border-image: none;
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 0px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);
+    color: #7A4A14;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 0;
+    padding: 5px 12px;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.75);
+    vertical-align: top;
+}
+.btn#searchsubmit:hover, .btn#searchsubmit:focus {
+  background-position:0 -20px;
+      background-color: rgba(192, 152, 83, 0.7);
+
+}
 
 .page-header {
     border-bottom: none;

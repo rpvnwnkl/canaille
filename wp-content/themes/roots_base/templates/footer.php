@@ -18,7 +18,8 @@
         ?>
 
       </nav>
-      <p>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?></p>
+       <p>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?></p>
+
     </div>
   </div>
 </header>
@@ -39,4 +40,5 @@
 <script>
           jQuery("#bigtitle").fitText(1.0);
           jQuery("#othertitle").fitText(1.0);
+          $('.typeahead').typeahead();
         </script>
