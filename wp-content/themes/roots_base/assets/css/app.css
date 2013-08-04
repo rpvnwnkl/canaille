@@ -59,7 +59,7 @@ border-color: #CCC129 -moz-use-text-color #CCC129;
     font-weight: normal;
     margin-left: 0px;
     margin-bottom:20px;
-    padding: 5px 1em;
+    padding: 5px 0em;
     text-shadow: 0 5px 8px #000000;
     width:100%;
 }
@@ -686,11 +686,6 @@ header time.updated, p.byline {
 
 #respond {
   margin-top:2em;
-}
-
-textarea#comment {
-  padding: 2 10px;
-  height: 2em;
 }
 /* ==========================================================================
    Footer
