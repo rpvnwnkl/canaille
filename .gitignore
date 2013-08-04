@@ -1,8 +1,8 @@
 #no wp-config because of server conflicts
 wp-config.php
 #trying to only include theme files now
-
-*~
-wp-admin/*
+/wp-content/plugins/**/*
+/wp-content/cache/**/*
+wp-admin/**/*
 !/wp-content/themes/**/*
 !.gitignore
