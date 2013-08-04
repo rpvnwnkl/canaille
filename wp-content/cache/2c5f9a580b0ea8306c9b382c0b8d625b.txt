@@ -1,0 +1,283 @@
+02:07:47 /imcooltoo/ wp_cache_check_mobile: 
+02:07:47 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:07:47 /imcooltoo/ No wp-cache file exists. Must generate a new one.
+02:07:48 /imcooltoo/ In WP Cache Phase 2
+02:07:48 /imcooltoo/ Setting up WordPress actions
+02:07:48 /imcooltoo/ Created output buffer
+02:07:49 /imcooltoo/ Output buffer callback
+02:07:49 /imcooltoo/ Anonymous user detected. Only creating Supercache file.
+02:07:49 /imcooltoo/ wp_cache_check_mobile: 
+02:07:49 /imcooltoo/ Gzipping buffer.
+02:07:49 /imcooltoo/ Writing non-gzipped buffer to supercache file.
+02:07:49 /imcooltoo/ Writing gzipped buffer to supercache file.
+02:07:49 /imcooltoo/ wp_cache_check_mobile: 
+02:07:49 /imcooltoo/ Renamed temp supercache file to /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/index.html
+02:07:49 /imcooltoo/ Renamed temp supercache gz file to /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/index.html.gz
+02:07:49 /imcooltoo/ Writing gzip content headers. Sending buffer to browser
+02:07:49 /imcooltoo/ wp_cache_shutdown_callback: collecting meta data.
+02:07:49 /imcooltoo/ Did not write meta file: wp-cache-370c8aa719f798eb543623472f552b12.meta *1* *1* *1*
+02:09:22 /imcooltoo/ wp_cache_check_mobile: 
+02:09:22 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:09:22 /imcooltoo/ Served page from supercache file using PHP.
+02:10:26 /imcooltoo/ wp_cache_check_mobile: 
+02:10:26 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:10:26 /imcooltoo/ Served page from supercache file using PHP.
+15:41:56 /imcooltoo/ wp_cache_check_mobile: 
+15:41:57 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+15:41:57 /imcooltoo/ Served page from supercache file using PHP.
+15:44:19 /imcooltoo/ wp_cache_check_mobile: 
+15:44:19 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+15:44:19 /imcooltoo/ Served page from supercache file using PHP.
+00:43:17 /imcooltoo/ wp_cache_check_mobile: 
+00:43:17 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+00:43:17 /imcooltoo/ Served page from supercache file using PHP.
+00:43:20 /imcooltoo/ wp_cache_check_mobile: 
+00:43:20 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+00:43:20 /imcooltoo/ Served page from supercache file using PHP.
+00:43:41 /imcooltoo/ wp_cache_check_mobile: 
+00:43:41 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+00:43:41 /imcooltoo/ Served page from supercache file using PHP.
+00:59:14 /imcooltoo/admin wp_cache_check_mobile: 
+00:59:14 /imcooltoo/admin supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/admin/
+00:59:15 /imcooltoo/admin No wp-cache file exists. Must generate a new one.
+00:59:15 /imcooltoo/admin In WP Cache Phase 2
+00:59:15 /imcooltoo/admin Setting up WordPress actions
+00:59:15 /imcooltoo/admin Created output buffer
+00:59:15 /imcooltoo/wp-cron.php?doing_wp_cron=1375318755.1811020374298095703125 In WP Cache Phase 2
+00:59:15 /imcooltoo/wp-cron.php?doing_wp_cron=1375318755.1811020374298095703125 Setting up WordPress actions
+00:59:15 /imcooltoo/wp-cron.php?doing_wp_cron=1375318755.1811020374298095703125 Not caching POST request.
+00:59:16 /imcooltoo/admin Output buffer callback
+00:59:16 /imcooltoo/admin Buffer is blank. Output buffer may have been corrupted by another plugin or this is a redirected URL. Look for text 'ob_start' in the files of your plugins directory.
+00:59:16 /imcooltoo/admin 404 file not found not cached
+00:59:16 /imcooltoo/admin No closing html tag. Not caching.
+00:59:16 /imcooltoo/admin wp_cache_shutdown_callback: collecting meta data.
+00:59:16 /imcooltoo/admin Did not write meta file: wp-cache-76869a379ff3fb44cb1a74877c047c83.meta ** *1* **
+00:59:16 /imcooltoo/wp-admin/ wp_cache_check_mobile: 
+00:59:16 /imcooltoo/wp-admin/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-admin/
+00:59:16 /imcooltoo/wp-admin/ No wp-cache file exists. Must generate a new one.
+00:59:16 /imcooltoo/wp-admin/ In WP Cache Phase 2
+00:59:16 /imcooltoo/wp-admin/ Setting up WordPress actions
+00:59:16 /imcooltoo/wp-admin/ Not caching wp-admin requests.
+00:59:16 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 wp_cache_check_mobile: 
+00:59:16 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-login.php/
+00:59:16 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 No wp-cache file exists. Must generate a new one.
+00:59:16 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 In WP Cache Phase 2
+00:59:16 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 Setting up WordPress actions
+00:59:16 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 Supercache caching disabled. Only using wp-cache. Non empty GET request. Array
+(
+    [redirect_to] => http://localhost:8888/imcooltoo/wp-admin/
+    [reauth] => 1
+)
+
+00:59:16 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 URI rejected. Not Caching
+00:59:30 /imcooltoo/wp-login.php In WP Cache Phase 2
+00:59:30 /imcooltoo/wp-login.php Setting up WordPress actions
+00:59:30 /imcooltoo/wp-login.php Not caching POST request.
+00:59:30 /imcooltoo/wp-admin/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:30 /imcooltoo/wp-admin/ wp_cache_check_mobile: 
+00:59:30 /imcooltoo/wp-admin/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-admin/
+00:59:30 /imcooltoo/wp-admin/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:30 /imcooltoo/wp-admin/ No wp-cache file exists. Must generate a new one.
+00:59:30 /imcooltoo/wp-admin/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:30 /imcooltoo/wp-admin/ In WP Cache Phase 2
+00:59:30 /imcooltoo/wp-admin/ Setting up WordPress actions
+00:59:30 /imcooltoo/wp-admin/ Not caching wp-admin requests.
+00:59:34 /imcooltoo/wp-admin/edit.php wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:34 /imcooltoo/wp-admin/edit.php wp_cache_check_mobile: 
+00:59:34 /imcooltoo/wp-admin/edit.php supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-admin/edit.php/
+00:59:34 /imcooltoo/wp-admin/edit.php No wp-cache file exists. Must generate a new one.
+00:59:34 /imcooltoo/wp-admin/edit.php wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:34 /imcooltoo/wp-admin/edit.php In WP Cache Phase 2
+00:59:34 /imcooltoo/wp-admin/edit.php Setting up WordPress actions
+00:59:34 /imcooltoo/wp-admin/edit.php Not caching wp-admin requests.
+00:59:37 /imcooltoo/wp-admin/plugins.php wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:37 /imcooltoo/wp-admin/plugins.php wp_cache_check_mobile: 
+00:59:37 /imcooltoo/wp-admin/plugins.php supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-admin/plugins.php/
+00:59:37 /imcooltoo/wp-admin/plugins.php No wp-cache file exists. Must generate a new one.
+00:59:37 /imcooltoo/wp-admin/plugins.php wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:37 /imcooltoo/wp-admin/plugins.php In WP Cache Phase 2
+00:59:37 /imcooltoo/wp-admin/plugins.php Setting up WordPress actions
+00:59:37 /imcooltoo/wp-admin/plugins.php Not caching wp-admin requests.
+00:59:40 /imcooltoo/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:40 /imcooltoo/ wp_cache_check_mobile: 
+00:59:40 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+00:59:40 /imcooltoo/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:40 /imcooltoo/ No wp-cache file exists. Must generate a new one.
+00:59:41 /imcooltoo/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:41 /imcooltoo/ In WP Cache Phase 2
+00:59:41 /imcooltoo/ Setting up WordPress actions
+00:59:41 /imcooltoo/ Created output buffer
+00:59:41 /imcooltoo/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:42 /imcooltoo/ Output buffer callback
+00:59:42 /imcooltoo/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:42 /imcooltoo/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+00:59:42 /imcooltoo/ Not caching for known user.
+00:59:42 /imcooltoo/ Cache is not enabled. Sending buffer to browser.
+00:59:42 /imcooltoo/ wp_cache_shutdown_callback: collecting meta data.
+00:59:42 /imcooltoo/ Did not write meta file: wp-cache-23dad9a5c15b87933f0138aa3be1a12b.meta ** *1* *1*
+02:25:30 /imcooltoo/ wp_cache_check_mobile: 
+02:25:30 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:25:31 /imcooltoo/ Served page from supercache file using PHP.
+02:26:16 /imcooltoo/ wp_cache_check_mobile: 
+02:26:16 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:26:16 /imcooltoo/ Served page from supercache file using PHP.
+02:27:26 /imcooltoo/ wp_cache_check_mobile: 
+02:27:26 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:27:26 /imcooltoo/ Served page from supercache file using PHP.
+02:27:29 /imcooltoo/ wp_cache_check_mobile: 
+02:27:29 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:27:29 /imcooltoo/ Served page from supercache file using PHP.
+02:27:58 /imcooltoo/ wp_cache_check_mobile: 
+02:27:58 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:27:58 /imcooltoo/ Served page from supercache file using PHP.
+02:29:37 /imcooltoo/ wp_cache_check_mobile: 
+02:29:37 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:29:37 /imcooltoo/ Served page from supercache file using PHP.
+02:29:39 /imcooltoo/ wp_cache_check_mobile: 
+02:29:39 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:29:39 /imcooltoo/ Served page from supercache file using PHP.
+02:29:44 /imcooltoo/ wp_cache_check_mobile: 
+02:29:44 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:29:44 /imcooltoo/ Served page from supercache file using PHP.
+02:33:17 /imcooltoo/ wp_cache_check_mobile: 
+02:33:17 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:33:17 /imcooltoo/ Served page from supercache file using PHP.
+02:33:55 /imcooltoo/admin wp_cache_check_mobile: 
+02:33:55 /imcooltoo/admin supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/admin/
+02:33:55 /imcooltoo/admin No wp-cache file exists. Must generate a new one.
+02:33:55 /imcooltoo/admin In WP Cache Phase 2
+02:33:55 /imcooltoo/admin Setting up WordPress actions
+02:33:55 /imcooltoo/admin Created output buffer
+02:33:55 /imcooltoo/wp-cron.php?doing_wp_cron=1375583635.7993240356445312500000 In WP Cache Phase 2
+02:33:55 /imcooltoo/wp-cron.php?doing_wp_cron=1375583635.7993240356445312500000 Setting up WordPress actions
+02:33:55 /imcooltoo/wp-cron.php?doing_wp_cron=1375583635.7993240356445312500000 Not caching POST request.
+02:33:56 /imcooltoo/wp-cron.php?doing_wp_cron=1375583635.7993240356445312500000 wp_cache_post_edit: draft post, not deleting any cache files.
+02:33:56 /imcooltoo/wp-cron.php?doing_wp_cron=1375583635.7993240356445312500000 wp_cache_post_edit: draft post, not deleting any cache files.
+02:33:56 /imcooltoo/admin Output buffer callback
+02:33:56 /imcooltoo/admin Buffer is blank. Output buffer may have been corrupted by another plugin or this is a redirected URL. Look for text 'ob_start' in the files of your plugins directory.
+02:33:56 /imcooltoo/admin 404 file not found not cached
+02:33:56 /imcooltoo/admin No closing html tag. Not caching.
+02:33:56 /imcooltoo/admin wp_cache_shutdown_callback: collecting meta data.
+02:33:56 /imcooltoo/admin Did not write meta file: wp-cache-76869a379ff3fb44cb1a74877c047c83.meta ** *1* **
+02:33:56 /imcooltoo/wp-admin/ wp_cache_check_mobile: 
+02:33:56 /imcooltoo/wp-admin/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-admin/
+02:33:56 /imcooltoo/wp-admin/ No wp-cache file exists. Must generate a new one.
+02:33:56 /imcooltoo/wp-admin/ In WP Cache Phase 2
+02:33:56 /imcooltoo/wp-admin/ Setting up WordPress actions
+02:33:56 /imcooltoo/wp-admin/ Not caching wp-admin requests.
+02:33:57 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 wp_cache_check_mobile: 
+02:33:57 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-login.php/
+02:33:57 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 No wp-cache file exists. Must generate a new one.
+02:33:57 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 In WP Cache Phase 2
+02:33:57 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 Setting up WordPress actions
+02:33:57 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 Supercache caching disabled. Only using wp-cache. Non empty GET request. Array
+(
+    [redirect_to] => http://localhost:8888/imcooltoo/wp-admin/
+    [reauth] => 1
+)
+
+02:33:57 /imcooltoo/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Fimcooltoo%2Fwp-admin%2F&reauth=1 URI rejected. Not Caching
+02:34:04 /imcooltoo/wp-login.php In WP Cache Phase 2
+02:34:04 /imcooltoo/wp-login.php Setting up WordPress actions
+02:34:04 /imcooltoo/wp-login.php Not caching POST request.
+02:34:04 /imcooltoo/wp-admin/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:04 /imcooltoo/wp-admin/ wp_cache_check_mobile: 
+02:34:04 /imcooltoo/wp-admin/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-admin/
+02:34:04 /imcooltoo/wp-admin/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:04 /imcooltoo/wp-admin/ No wp-cache file exists. Must generate a new one.
+02:34:04 /imcooltoo/wp-admin/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:04 /imcooltoo/wp-admin/ In WP Cache Phase 2
+02:34:04 /imcooltoo/wp-admin/ Setting up WordPress actions
+02:34:04 /imcooltoo/wp-admin/ Not caching wp-admin requests.
+02:34:17 /imcooltoo/wp-admin/update-core.php wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:17 /imcooltoo/wp-admin/update-core.php wp_cache_check_mobile: 
+02:34:17 /imcooltoo/wp-admin/update-core.php supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-admin/update-core.php/
+02:34:17 /imcooltoo/wp-admin/update-core.php No wp-cache file exists. Must generate a new one.
+02:34:17 /imcooltoo/wp-admin/update-core.php wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:17 /imcooltoo/wp-admin/update-core.php In WP Cache Phase 2
+02:34:17 /imcooltoo/wp-admin/update-core.php Setting up WordPress actions
+02:34:17 /imcooltoo/wp-admin/update-core.php Not caching wp-admin requests.
+02:34:24 /imcooltoo/wp-admin/update-core.php?action=do-core-upgrade wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:24 /imcooltoo/wp-admin/update-core.php?action=do-core-upgrade In WP Cache Phase 2
+02:34:24 /imcooltoo/wp-admin/update-core.php?action=do-core-upgrade Setting up WordPress actions
+02:34:24 /imcooltoo/wp-admin/update-core.php?action=do-core-upgrade Not caching wp-admin requests.
+02:34:54 /imcooltoo/wp-admin/upgrade.php?step=upgrade_db In WP Cache Phase 2
+02:34:54 /imcooltoo/wp-admin/upgrade.php?step=upgrade_db Setting up WordPress actions
+02:34:54 /imcooltoo/wp-admin/upgrade.php?step=upgrade_db Not caching POST request.
+02:34:55 /imcooltoo/wp-admin/about.php?updated wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:55 /imcooltoo/wp-admin/about.php?updated wp_cache_check_mobile: 
+02:34:55 /imcooltoo/wp-admin/about.php?updated supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-admin/about.php/
+02:34:55 /imcooltoo/wp-admin/about.php?updated No wp-cache file exists. Must generate a new one.
+02:34:55 /imcooltoo/wp-admin/about.php?updated wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:55 /imcooltoo/wp-admin/about.php?updated In WP Cache Phase 2
+02:34:55 /imcooltoo/wp-admin/about.php?updated Setting up WordPress actions
+02:34:55 /imcooltoo/wp-admin/about.php?updated Not caching wp-admin requests.
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=1&1375583697585 wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=1&1375583697585 wp_cache_check_mobile: 
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=1&1375583697585 supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-admin/admin-ajax.php/
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=1&1375583697585 No wp-cache file exists. Must generate a new one.
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=1&1375583697585 wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=1&1375583697585 In WP Cache Phase 2
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=1&1375583697585 Setting up WordPress actions
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=1&1375583697585 Not caching wp-admin requests.
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=2&1375583697860 wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=2&1375583697860 wp_cache_check_mobile: 
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=2&1375583697860 supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-admin/admin-ajax.php/
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=2&1375583697860 No wp-cache file exists. Must generate a new one.
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=2&1375583697860 wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=2&1375583697860 In WP Cache Phase 2
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=2&1375583697860 Setting up WordPress actions
+02:34:57 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=2&1375583697860 Not caching wp-admin requests.
+02:34:58 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&1375583698130 wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:58 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&1375583698130 wp_cache_check_mobile: 
+02:34:58 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&1375583698130 supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-admin/admin-ajax.php/
+02:34:58 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&1375583698130 No wp-cache file exists. Must generate a new one.
+02:34:58 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&1375583698130 wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:34:58 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&1375583698130 In WP Cache Phase 2
+02:34:58 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&1375583698130 Setting up WordPress actions
+02:34:58 /imcooltoo/wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&1375583698130 Not caching wp-admin requests.
+02:37:48 /imcooltoo/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:37:48 /imcooltoo/ wp_cache_check_mobile: 
+02:37:48 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:37:48 /imcooltoo/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:37:48 /imcooltoo/ No wp-cache file exists. Must generate a new one.
+02:37:48 /imcooltoo/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:37:48 /imcooltoo/ In WP Cache Phase 2
+02:37:48 /imcooltoo/ Setting up WordPress actions
+02:37:48 /imcooltoo/ Created output buffer
+02:37:48 /imcooltoo/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:37:50 /imcooltoo/ Output buffer callback
+02:37:50 /imcooltoo/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:37:50 /imcooltoo/ wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:37:50 /imcooltoo/ Not caching for known user.
+02:37:50 /imcooltoo/ Cache is not enabled. Sending buffer to browser.
+02:37:50 /imcooltoo/ wp_cache_shutdown_callback: collecting meta data.
+02:37:50 /imcooltoo/ Did not write meta file: wp-cache-ffca8e35b8eb535a8f80ceffbc2ff5f7.meta ** *1* *1*
+02:37:53 /imcooltoo/wp-login.php?action=logout&_wpnonce=0b1e02a02b wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:37:53 /imcooltoo/wp-login.php?action=logout&_wpnonce=0b1e02a02b wp_cache_check_mobile: 
+02:37:53 /imcooltoo/wp-login.php?action=logout&_wpnonce=0b1e02a02b supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-login.php/
+02:37:53 /imcooltoo/wp-login.php?action=logout&_wpnonce=0b1e02a02b No wp-cache file exists. Must generate a new one.
+02:37:53 /imcooltoo/wp-login.php?action=logout&_wpnonce=0b1e02a02b wp_cache_get_cookies_values: /^wp-postpass|^comment_author_|^wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff/ Cookie detected: wordpress_logged_in_94ffe702ac308c1b7fe0c855770a6aff
+02:37:53 /imcooltoo/wp-login.php?action=logout&_wpnonce=0b1e02a02b In WP Cache Phase 2
+02:37:53 /imcooltoo/wp-login.php?action=logout&_wpnonce=0b1e02a02b Setting up WordPress actions
+02:37:53 /imcooltoo/wp-login.php?action=logout&_wpnonce=0b1e02a02b Supercache caching disabled. Only using wp-cache. Non empty GET request. Array
+(
+    [action] => logout
+    [_wpnonce] => 0b1e02a02b
+)
+
+02:37:53 /imcooltoo/wp-login.php?action=logout&_wpnonce=0b1e02a02b URI rejected. Not Caching
+02:37:54 /imcooltoo/wp-login.php?loggedout=true wp_cache_check_mobile: 
+02:37:54 /imcooltoo/wp-login.php?loggedout=true supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/wp-login.php/
+02:37:54 /imcooltoo/wp-login.php?loggedout=true No wp-cache file exists. Must generate a new one.
+02:37:54 /imcooltoo/wp-login.php?loggedout=true In WP Cache Phase 2
+02:37:54 /imcooltoo/wp-login.php?loggedout=true Setting up WordPress actions
+02:37:54 /imcooltoo/wp-login.php?loggedout=true Supercache caching disabled. Only using wp-cache. Non empty GET request. Array
+(
+    [loggedout] => true
+)
+
+02:37:54 /imcooltoo/wp-login.php?loggedout=true URI rejected. Not Caching
+02:37:58 /imcooltoo/ wp_cache_check_mobile: 
+02:37:58 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+02:37:58 /imcooltoo/ Served page from supercache file using PHP.
