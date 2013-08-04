@@ -281,3 +281,12 @@
 02:37:58 /imcooltoo/ wp_cache_check_mobile: 
 02:37:58 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
 02:37:58 /imcooltoo/ Served page from supercache file using PHP.
+03:04:32 /imcooltoo/ wp_cache_check_mobile: 
+03:04:32 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+03:04:32 /imcooltoo/ Served page from supercache file using PHP.
+03:04:37 /imcooltoo/ wp_cache_check_mobile: 
+03:04:37 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+03:04:37 /imcooltoo/ Served page from supercache file using PHP.
+03:04:45 /imcooltoo/ wp_cache_check_mobile: 
+03:04:45 /imcooltoo/ supercache dir: /Applications/MAMP/htdocs/imcooltoo/wp-content/cache/supercache/localhost/imcooltoo/
+03:04:45 /imcooltoo/ Served page from supercache file using PHP.
