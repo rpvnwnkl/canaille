@@ -12,15 +12,15 @@
           <!-- <a id="" class="dropbrand" href="<?php echo home_url(); ?>/">
           Canaille
           </a> -->
-          <?php
-            if (has_nav_menu('primary_navigation')) :
-              wp_nav_menu(array('theme_location' => 'primary_navigation', 'menu_class' => 'nav'));
-            endif;
-          ?>
+            <?php
+              if (has_nav_menu('primary_navigation')) :
+                wp_nav_menu(array('theme_location' => 'primary_navigation', 'menu_class' => 'nav'));
+              endif;
+            ?>
           <!-- <form class="navbar-search pull-right form-search">
             <input id="s" type="text" class="search-query" type="submit" placeholder="Canaille Query" name="search">
           </form> -->
-          <?php get_template_part('templates/searchform'); ?>
+          <!--<?php get_template_part('templates/searchform'); ?>-->
         </nav>
         <nav class="nav-main visible-desktop" role="navigation">
           <?php
@@ -49,9 +49,9 @@
   </div>
   <div class="container-fluid hidden-desktop">
     <div class="row-fluid">
-      <div class="span12 brandbox">
+      <div class="span12 brandbox text-center">
         <a id="othertitle" class="smallbrand" href="<?php echo home_url(); ?>/">
-          &#8195;<?php bloginfo('name'); ?>
+          <?php bloginfo('name'); ?>
         </a>
         
       </div>
