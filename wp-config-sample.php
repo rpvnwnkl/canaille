@@ -16,13 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'database_name_here');
+define('DB_NAME', 'imcooltoo');
 
 /** MySQL database username */
-define('DB_USER', 'username_here');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'password_here');
+define('DB_PASSWORD', 'root');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -42,16 +42,15 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         'Zpn]A}D-jMr*N+W^;H%XqLd8qT^NR1ga}!g%IxQO=j+p(_S?Ad2C-R~-S|Z`qK>I');
+define('SECURE_AUTH_KEY',  '[n|!h9waIDPo;xQ}X$yoYSe[:r*6TRc8ExN%}7.H}<JLcJaVOOtOq8D4:fb+1]Ln');
+define('LOGGED_IN_KEY',    '9O@c}yRh-:`e4NdbVX({2kU:n_<,7YLg.74(mqP<aLDep{a@5CY#o.o_Ml6q=n*W');
+define('NONCE_KEY',        'MGxkz&9Mw`YO*A{=naUx0D%<5l==9L(UHS:&qsvXdVT}nMXdiEe-v$nRORHM~>G|');
+define('AUTH_SALT',        '4Tl[moct-8i8N@?9r3(-N4D2 +pw5Y>!) 7?)7r#zm<{(}+Z;/z=m^@q[=TTeoiE');
+define('SECURE_AUTH_SALT', 'ys/.;l^*h,)UnIl_G]nsEp9FMK8j5[X$o*c(62Q22rC7!i Ak-FW(Ij6n1A.sj6(');
+define('LOGGED_IN_SALT',   'qXbH/r!|q3z/S8b#N|_;xo QK#-X@9_K@]?jF{^WtA,b#N H$Brm-y]wMPkH[d4@');
+define('NONCE_SALT',       'wIi-Q`?_mQW%]GW-eS{eQ$N*- ?G-~|on{6TXz:`Es1x04Q@-{oR</mN~^2m M3i');
 
-/**#@-*/
 
 /**
  * WordPress Database Table prefix.
@@ -59,7 +58,7 @@ define('NONCE_SALT',       'put your unique phrase here');
  * You can have multiple installations in one database if you give each a unique
  * prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'wp_';
+$table_prefix  = 'wp_GRfQy7_';
 
 /**
  * WordPress Localized Language, defaults to English.
@@ -78,7 +77,7 @@ define('WPLANG', '');
  * It is strongly recommended that plugin and theme developers use WP_DEBUG
  * in their development environments.
  */
-define('WP_DEBUG', false);
+define('WP_DEBUG', true);
 
 /* That's all, stop editing! Happy blogging. */
 
