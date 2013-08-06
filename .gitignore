@@ -2,3 +2,5 @@
 wp-config.php
 #trying to only include theme files now
 !.gitignore
+.htaccess
+wp-content/plugins/**/*
